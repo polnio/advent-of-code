@@ -1,0 +1,4 @@
+{ ... }:
+{
+  languages.c.enable = true;
+}
